@@ -1,1 +1,1 @@
-# OpenMV-Face-Teacking
+# OpenMV-Face-Tracking
